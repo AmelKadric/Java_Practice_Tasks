@@ -1,4 +1,4 @@
-package jd09_practice_arrays;
+package jd09_practice;
 
 public class EvenOddNumbers {
 
