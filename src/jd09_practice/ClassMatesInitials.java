@@ -18,7 +18,8 @@ public class ClassMatesInitials {
         String[] initials = new String[names.length];
 
         for (int i = 0; i < names.length; i++) {
-            initials[i] = names[i].charAt(0) + "." + names[i].charAt(names[i].indexOf(" ") +1);
+            initials[i] = "\n" + names[i].charAt(0) + "." + names[i].charAt(names[i].indexOf(" ") +1);
+
         }
 
         return initials;
