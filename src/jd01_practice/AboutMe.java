@@ -1,4 +1,4 @@
-package day01_practice_tasks;
+package jd01_practice;
 
 public class AboutMe {
 
