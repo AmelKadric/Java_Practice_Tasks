@@ -7,8 +7,8 @@ public class RectangleClients {
         Rectangle rec1 = new Rectangle(10,8);
         System.out.println(rec1);
 
-        System.out.println(rec1.calArea());
-        System.out.println(rec1.calPerimeter());
+      //System.out.println(rec1.calArea());
+     // System.out.println(rec1.calPerimeter());
 
     }
 }
