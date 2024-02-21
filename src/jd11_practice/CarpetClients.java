@@ -1,4 +1,4 @@
-package jd11_practice_;
+package jd11_practice;
 
 public class CarpetClients {
 
